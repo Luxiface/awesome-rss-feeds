@@ -672,6 +672,7 @@ Skinnytaste | https://www.skinnytaste.com/feed/ | skinnytaste.com
 Sprouted Kitchen | https://www.sproutedkitchen.com/home?format=rss | sproutedkitchen.com 
 Williams-Sonoma Taste | https://blog.williams-sonoma.com/feed/ | blog.williams-sonoma.com 
 smitten kitchen | http://feeds.feedburner.com/smittenkitchen | smittenkitchen.com 
+Korean Skincare | https://luxiface.com/collections/skin-care | Luxiface.com
 ### Football
 Title | RSS Feed Url | Domain 
 -------|------------------|---------- 
